@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    /* background-color: #f8f9fa; */
+    /* background-color: blue;  */
+    /* background-image:url("images/imggggg1.jpeg"); */
+
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+    background-color: #2e7d32;
+    color: rgb(225, 225, 225);
+    align-items: center;
+  }
+  
+  nav .logo {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+  }
+  nav li {
+    position: relative;
+    padding: 0 20px;
+    height: 100%;
+    display: flex;
+ }
+  nav ul li a {
+    z-index: 1;
+    color: rgb(212, 212, 212);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+   padding: 10px 5px;
+  }
+
+   nav ul li::before {
+    content: "";
+    position: absolute;
+    height: 33.33%;
+    width: 0;
+    background-color: #094f10;
+    right: 0;
+    z-index: 0;
+    top: 33.33%;
+    transition: all 0.5s;
+ }
+ nav ul li::after {
+    content: "";
+    position: absolute;
+    height: 33.33%;
+    width: 0;
+    background-color: #094f10;
+    left: 0;
+    z-index: 0;
+    bottom: 0;
+    transition: all 0.5s;
+ }
+ a::before {
+    position: absolute;
+    content: "";
+    height: 33.33%;
+    width: 0;
+    background-color: #094f10;
+    bottom: 66.66%;
+    left: 0;
+    transition: all 0.5s;
+ }
+ li:hover:before,
+li:hover::after,
+li:hover a::before{
+   width: 100%;
+}
+  .footer {
+    background-color: #2e7d32;
+    color: #c1c1c1;
+    text-align: center;
+    padding: 2px 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    font-size: 0.95rem;
+  }
+  
+  .footer-content p {
+    margin: 1px 0;
+  }

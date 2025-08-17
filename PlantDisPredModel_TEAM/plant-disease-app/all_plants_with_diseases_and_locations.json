@@ -1,0 +1,307 @@
+[
+  {
+    "plant_name": "Apple",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Himachal Pradesh, Jammu & Kashmir",
+    "diseases": [
+      {
+        "disease_name": "Apple_scab",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Apple scab affects the apple plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Black_rot",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Black rot affects the apple plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Cedar_apple_rust",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Cedar apple rust affects the apple plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      }
+    ]
+  },
+  {
+    "plant_name": "Blueberry",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Assam, Meghalaya (trial cultivation)",
+    "diseases": []
+  },
+   {
+    "plant_name": "Peas",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Assam, Meghalaya (trial cultivation)",
+    "diseases": []
+  },
+   {
+    "plant_name": "Okra",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Assam, Meghalaya (trial cultivation)",
+    "diseases": []
+  },
+  {
+    "plant_name": "Cherry",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Jammu & Kashmir, Himachal Pradesh",
+    "diseases": [
+      {
+        "disease_name": "Powdery_mildew",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Powdery mildew affects the cherry plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      }
+    ]
+  },
+  {
+    "plant_name": "Corn",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Punjab, Uttar Pradesh, Bihar",
+    "diseases": [
+      {
+        "disease_name": "Cercospora_leaf_spot Gray_leaf_spot",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Cercospora leaf spot Gray leaf spot affects the corn plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Common_rust_",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Common rust  affects the corn plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Northern_Leaf_Blight",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Northern Leaf Blight affects the corn plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      }
+    ]
+  },
+  {
+    "plant_name": "Grape",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Maharashtra, Karnataka, Tamil Nadu",
+    "diseases": [
+      {
+        "disease_name": "Black_rot",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Black rot affects the grape plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Esca_(Black_Measles)",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Esca (Black Measles) affects the grape plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Leaf blight (Isariopsis Leaf Spot) affects the grape plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      }
+    ]
+  },
+  {
+    "plant_name": "Orange",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Maharashtra, Punjab, Nagaland",
+    "diseases": [
+      {
+        "disease_name": "Haunglongbing_(Citrus_greening)",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Haunglongbing (Citrus greening) affects the orange plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      }
+    ]
+  },
+  {
+    "plant_name": "Peach",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Jammu & Kashmir, Himachal Pradesh",
+    "diseases": [
+      {
+        "disease_name": "Bacterial_spot",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Bacterial spot affects the peach plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      }
+    ]
+  },
+  {
+    "plant_name": "Pepper_bell",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Various states across India",
+    "diseases": [
+      {
+        "disease_name": "Bacterial_spot",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Bacterial spot affects the pepper_bell plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      }
+    ]
+  },
+  {
+    "plant_name": "Potato",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Uttar Pradesh, West Bengal, Punjab",
+    "diseases": [
+      {
+        "disease_name": "Early_blight",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Early blight affects the potato plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Late_blight",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Late blight affects the potato plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      }
+    ]
+  },
+  {
+    "plant_name": "Raspberry",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Himachal Pradesh (limited cultivation)",
+    "diseases": []
+  },
+  {
+    "plant_name": "Soybean",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Madhya Pradesh, Maharashtra, Rajasthan",
+    "diseases": []
+  },
+  {
+    "plant_name": "Squash",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Uttarakhand, Himachal Pradesh",
+    "diseases": [
+      {
+        "disease_name": "Powdery_mildew",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Powdery mildew affects the squash plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      }
+    ]
+  },
+  {
+    "plant_name": "Strawberry",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Maharashtra (Mahabaleshwar), Himachal Pradesh",
+    "diseases": [
+      {
+        "disease_name": "Leaf_scorch",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Leaf scorch affects the strawberry plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      }
+    ]
+  },
+  {
+    "plant_name": "Tomato",
+    "plant_image": "https://example.com/images/default_plant.jpg",
+    "plant_info": "Information about this plant will be updated soon.",
+    "location": "Karnataka, Maharashtra, Andhra Pradesh",
+    "diseases": [
+      {
+        "disease_name": "Bacterial_spot",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Bacterial spot affects the tomato plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Early_blight",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Early blight affects the tomato plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Late_blight",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Late blight affects the tomato plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Leaf_Mold",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Leaf Mold affects the tomato plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Septoria_leaf_spot",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Septoria leaf spot affects the tomato plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Spider_mites Two-spotted_spider_mite",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Spider mites Two-spotted spider mite affects the tomato plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Target_Spot",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Target Spot affects the tomato plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Tomato_Yellow_Leaf_Curl_Virus",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Tomato Yellow Leaf Curl Virus affects the tomato plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      },
+      {
+        "disease_name": "Tomato_mosaic_virus",
+        "leaf_image": "https://example.com/images/default_leaf.jpg",
+        "description": "Tomato mosaic virus affects the tomato plant and reduces yield.",
+        "precautions": "Maintain field hygiene, ensure proper spacing and avoid overhead irrigation.",
+        "solution": "Use disease-resistant varieties and apply appropriate fungicides or pesticides."
+      }
+    ]
+  }
+]
